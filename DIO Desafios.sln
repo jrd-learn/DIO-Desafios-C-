@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DominandoOperadores", "DominandoOperadores\DominandoOperadores.csproj", "{10567E87-3095-437C-950D-2B190181F09D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Catalogo_de_Jogos", "Catalogo_de_Jogos\Catalogo_de_Jogos.csproj", "{32558C9F-2AB8-4219-8DA4-D7146145800E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculo_de_Pegada_de_Carbono", "Calculo_de_Pegada_de_Carbono\Calculo_de_Pegada_de_Carbono.csproj", "{8A0F4F75-162D-4CAE-84D7-72CF4B02B10D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Primeiro_Desafio_Com_POO", "Primeiro_Desafio_Com_POO\Primeiro_Desafio_Com_POO.csproj", "{DCE45599-3B2F-4C40-B06E-31A9C8CBCC85}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Controle_de_Velocidade_do_Robo", "Controle_de_Velocidade_do_Robo\Controle_de_Velocidade_do_Robo.csproj", "{CEAB25A3-191D-4962-8BEE-89D175980AD7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10567E87-3095-437C-950D-2B190181F09D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10567E87-3095-437C-950D-2B190181F09D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10567E87-3095-437C-950D-2B190181F09D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10567E87-3095-437C-950D-2B190181F09D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32558C9F-2AB8-4219-8DA4-D7146145800E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32558C9F-2AB8-4219-8DA4-D7146145800E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32558C9F-2AB8-4219-8DA4-D7146145800E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32558C9F-2AB8-4219-8DA4-D7146145800E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A0F4F75-162D-4CAE-84D7-72CF4B02B10D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A0F4F75-162D-4CAE-84D7-72CF4B02B10D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A0F4F75-162D-4CAE-84D7-72CF4B02B10D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A0F4F75-162D-4CAE-84D7-72CF4B02B10D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCE45599-3B2F-4C40-B06E-31A9C8CBCC85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCE45599-3B2F-4C40-B06E-31A9C8CBCC85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCE45599-3B2F-4C40-B06E-31A9C8CBCC85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCE45599-3B2F-4C40-B06E-31A9C8CBCC85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CEAB25A3-191D-4962-8BEE-89D175980AD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEAB25A3-191D-4962-8BEE-89D175980AD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEAB25A3-191D-4962-8BEE-89D175980AD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEAB25A3-191D-4962-8BEE-89D175980AD7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FC55EE1C-8097-41F0-B994-C306C01EA706}
+	EndGlobalSection
+EndGlobal
